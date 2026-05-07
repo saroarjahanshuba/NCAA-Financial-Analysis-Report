@@ -1,7 +1,7 @@
 # NCAA Financial Analysis Report  
 ## Lamar University Athletics (FY20–FY24)
 
-📊 Comprehensive financial analysis of Lamar University Athletics using five years of NCAA Financial Reporting System (FRS) data. This project evaluates revenue trends, expense structures, institutional dependency, and sport-level financial performance to identify key insights that may support long-term athletic budgeting and operational planning. :contentReference[oaicite:0]{index=0}
+📊 Comprehensive financial analysis of Lamar University Athletics using five years of NCAA Financial Reporting System (FRS) data. This project evaluates revenue trends, expense structures, institutional dependency, and sport-level financial performance to identify key insights that may support long-term athletic budgeting and operational planning.
 
 ---
 
@@ -15,7 +15,7 @@ This analysis was conducted using NCAA Financial Reporting System (FRS) data fro
 - Department-level financial structure
 - Key operational cost drivers and long-term sustainability
 
-The analysis showed that Lamar University Athletics operates under a highly subsidized financial model in which institutional support plays a dominant role, while meaningful self-generated revenue is concentrated primarily in football and a small number of sports. :contentReference[oaicite:1]{index=1}
+The analysis showed that Lamar University Athletics operates under a highly subsidized financial model in which institutional support plays a dominant role, while meaningful self-generated revenue is concentrated primarily in football and a small number of sports.
 
 ---
 
